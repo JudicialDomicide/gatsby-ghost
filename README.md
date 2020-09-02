@@ -1,3 +1,8 @@
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5275fb86-3fd5-4852-94ad-f37b622118f7/deploy-status)](https://app.netlify.com/sites/frosty-bohr-4b3bc4/deploys)
+
+
+
 <p align="center">
   <a href="https://www.jamify.org">
     <img alt="Jamify" src="https://avatars1.githubusercontent.com/u/66115190?s=200&v=4" />
