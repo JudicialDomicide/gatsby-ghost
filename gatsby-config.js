@@ -94,6 +94,9 @@ module.exports = {
                     {
                         resolve: `gatsby-rehype-prismjs`,
                     },
+                    {
+                        resolve: `gatsby-theme-ghost-contact`,
+                    },
                 ],
             },
         },
