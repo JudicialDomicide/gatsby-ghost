@@ -99,7 +99,11 @@ module.exports = {
                         options: {
                             pageContext: {
                                 title: `Contact Our Team`,
-                                custom_excerpt: `We are a small grassroots not for profit organisation entirely run by volunteers, please note that in some cases it can take several days for us to respond. If you are ok with that feel free to reach out and contact our team.`,
+                                custom_excerpt: `Hello, and welcome to Judicial Domicide.
+
+                                We are a not-for-profit humanitarian organisation, which is run entirely by a benevolent group of passionate volunteers, that operates at a grassroots level with the principal aim of raising awareness of callous evictions involving vulnerable occupiers.
+                                
+                                If you are under threat of eviction or fear that you may be displaced from your place of residence, please contact us about your situation, as our team endeavours to reach out to those who are at risk in a timely manner, which may take several days due to our staff being purely comprised of voluntary members.`,
                                 feature_image: `https://images.unsplash.com/photo-1577563820627-bc12aa2139de?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExNzczfQ&fit=crop&w=1350q=80`,
                             },
                         },
