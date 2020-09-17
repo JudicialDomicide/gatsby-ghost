@@ -10,10 +10,10 @@ module.exports = {
     postsPerPage: 3,
 
     // This allows an alternative site title for meta data for pages.
-    siteTitleMeta: `Judicial Domicide - `,
+    siteTitleMeta: `Judicial Domicide `,
 
     // This allows an site description for meta data for pages.
-    siteDescriptionMeta: `Dedicated to investigating cases involving the forceful displacement or eviction of residential occupiers or tenants from their homes.`,
+    siteDescriptionMeta: `Dedicated to investigating cases involving the forceful displacement or eviction of residential occupiers from their homes.`,
 
     // Used for App and Offline manifest e.g. Mobile Home Screen
     shortTitle: `Judicial Domicide`,
