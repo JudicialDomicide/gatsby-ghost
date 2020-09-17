@@ -65,6 +65,9 @@ module.exports = {
             },
         },
         {
+            resolve: `gatsby-plugin-netlify-cache`,
+        },    
+        {
             resolve: `gatsby-theme-ghost-dark-mode`,
             options: {
                 // Set to true if you want your theme to default to dark mode (default: false)
