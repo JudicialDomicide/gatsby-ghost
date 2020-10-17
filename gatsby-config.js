@@ -66,12 +66,12 @@ module.exports = {
         },
         {
             resolve: `gatsby-theme-ghost-toc`,
+            options: {
+                maxDepth: 3,
+            }        
         },
         {
             resolve: `gatsby-plugin-netlify-cache`,
-            options: {
-                maxDepth: 2,
-            }
         },    
         {
             resolve: `gatsby-theme-ghost-dark-mode`,
