@@ -69,6 +69,9 @@ module.exports = {
         },
         {
             resolve: `gatsby-plugin-netlify-cache`,
+            options: {
+                maxDepth: 2,
+            }
         },    
         {
             resolve: `gatsby-theme-ghost-dark-mode`,
