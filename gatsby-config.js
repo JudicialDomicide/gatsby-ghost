@@ -67,7 +67,7 @@ module.exports = {
         {
             resolve: `gatsby-theme-ghost-toc`,
             options: {
-                maxDepth: 3,
+                maxDepth: 2,
             }        
         },
         {
