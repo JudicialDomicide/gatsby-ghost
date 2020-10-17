@@ -65,6 +65,9 @@ module.exports = {
             },
         },
         {
+            resolve: `gatsby-theme-ghost-toc`,
+        },
+        {
             resolve: `gatsby-plugin-netlify-cache`,
         },    
         {

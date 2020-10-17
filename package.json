@@ -37,6 +37,7 @@
     "gatsby-rehype-prismjs": "^1.2.0",
     "gatsby-theme-ghost-dark-mode": "^1.6.0",
     "gatsby-theme-ghost-members": "^1.4.0",
+    "gatsby-theme-ghost-toc": "^1.5.1",
     "gatsby-theme-try-ghost": "^1.45.0",
     "gatsby-transformer-rehype": "^1.9.0",
     "preact": "^10.4.8",
